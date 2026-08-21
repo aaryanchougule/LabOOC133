@@ -17,6 +17,7 @@ class Student
             cin>>marks;
         }
         void output(){
+            cout<<"___Student_info___";
             cout<<"\nRoll Number:"<<rno<<endl;
             cout<<"Student Name:"<<name<<endl;
             cout<<"Student Marks:"<<marks<<endl;
