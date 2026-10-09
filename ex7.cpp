@@ -1,3 +1,4 @@
+//Ex7
 #include<iostream>
 #include<string> // Replaced old stdio.h with string for easier text handling
 using namespace std;

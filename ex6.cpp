@@ -1,3 +1,4 @@
+//ex6
 #include<iostream>
 using namespace std;
 int area(int);
